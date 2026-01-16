@@ -118,3 +118,121 @@ $ 'c:/Users/Asus/Documents/yoooo/LISA HARNIATI/InputKHS_lisa
 > 
 > cd Doc
 > 
+
+Asus@DESKTOP-7LR74Q4 MINGW64 /d/Web Development/WebDev Journey/Javascript Journey
+$ cd ~
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~
+$ cd Documents/yoooo/ls
+bash: cd: Documents/yoooo/ls: No such file or directory
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~
+$ cd Documents
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents
+$ cd yooo
+bash: cd: yooo: No such file or directory
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents
+$ cd yoooo
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo
+$ cd LISA HARNIATI
+bash: cd: too many arguments
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo
+$ cd LISA\ HARNIATI/
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo/LISA HARNIATI
+$ cd yooo
+bash: cd: yooo: No such file or directory
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo/LISA HARNIATI
+$ cd yoooo
+bash: cd: yoooo: No such file or directory
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo/LISA HARNIATI
+$ cd~
+bash: cd~: command not found
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo/LISA HARNIATI
+$ cd ~
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~
+$ cd Documents
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents
+$ cd yoooo
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo
+$ ls
+'LISA HARNIATI'/
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo
+$ "LISA HARNIATI"
+bash: LISA HARNIATI: command not found
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo
+$ 'LISA HARNIATI'
+bash: LISA HARNIATI: command not found
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo
+$ ls
+'LISA HARNIATI'/
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo
+$ LISA\ HARNIATI/
+bash: LISA HARNIATI/: Is a directory
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo
+$ start LISA\ HARNIATI/
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo
+$ ls
+'LISA HARNIATI'/
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo
+$ LISA\ HARNIATI/
+bash: LISA HARNIATI/: Is a directory
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo
+$ cd LISA\ HARNIATI/
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo/LISA HARNIATI
+$ ls
+InputKHS_lisa/  InputKRS_lisa/  Insert/
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo/LISA HARNIATI
+$ cd In
+InputKHS_lisa/ InputKRS_lisa/ Insert/        
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo/LISA HARNIATI
+$ cd In
+InputKHS_lisa/ InputKRS_lisa/ Insert/        
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo/LISA HARNIATI
+$ cd InputK
+InputKHS_lisa/ InputKRS_lisa/ 
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo/LISA HARNIATI
+$ cd InputKHS_lisa
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo/LISA HARNIATI/InputKHS_lisa
+$ ls
+'KHS_LISA HARNIATI.pdf'
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo/LISA HARNIATI/InputKHS_lisa
+$ open
+bash: open: command not found
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo/LISA HARNIATI/InputKHS_lisa
+$ open .
+bash: open: command not found
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo/LISA HARNIATI/InputKHS_lisa
+$ cd c
+bash: cd: c: No such file or directory
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo/LISA HARNIATI/InputKHS_lisa
+$ cd ~
+
