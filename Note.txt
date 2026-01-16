@@ -13,3 +13,42 @@ What I practiced:
 - Git workflow (init, commit, push)
 
 LETSS GOO!!!!!!!!!!
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~
+$ cd /d
+
+Asus@DESKTOP-7LR74Q4 MINGW64 /d
+$ cd Web\ Development/
+
+Asus@DESKTOP-7LR74Q4 MINGW64 /d/Web Development
+$ cd WebDev\ Journey/
+
+Asus@DESKTOP-7LR74Q4 MINGW64 /d/Web Development/WebDev Journey
+$ cd Unix\ command\ line/
+
+Asus@DESKTOP-7LR74Q4 MINGW64 /d/Web Development/WebDev Journey/Unix command line (main)
+$ start Note.txt
+
+Asus@DESKTOP-7LR74Q4 MINGW64 /d/Web Development/WebDev Journey/Unix command line (main)
+$ git add Note.txt
+
+Asus@DESKTOP-7LR74Q4 MINGW64 /d/Web Development/WebDev Journey/Unix command line (main)
+$ git commit -m "I just added some detailed in my notes, so i can tell to myself in the future!"
+[main a2375c0] I just added some detailed in my notes, so i can tell to myself i
+n the future!
+ 1 file changed, 13 insertions(+), 1 deletion(-)
+
+Asus@DESKTOP-7LR74Q4 MINGW64 /d/Web Development/WebDev Journey/Unix command line (main)
+$ git push origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 620 bytes | 620.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/ariffrahmnn/Unix-Command-Line.git
+   1d95ed7..a2375c0  main -> main
+
+Asus@DESKTOP-7LR74Q4 MINGW64 /d/Web Development/WebDev Journey/Unix command line (main)
+$
