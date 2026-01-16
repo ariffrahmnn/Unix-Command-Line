@@ -382,5 +382,94 @@ Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents
 $ code IRAISE2025.SQL 
 
 Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif/Biodata
+$ cd ~
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~
+$ cd Arif/
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif
+$ mkdir "Web Project"
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif
+$ ls
+ Biodata/  'Web Project'/
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif
+$ cd Web\ Project/
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif/Web Project
+$ touch index.js index.html styles.css
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif/Web Project
+$ ls
+index.html  index.js  styles.css
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif/Web Project
+$ code index.html index.js styles.css
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif/Web Project
+$ cd ..
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif
+$ cd Web\ Project/
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif/Web Project
+$ cd ..
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif
+$ mkdir Arif2
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif
+$ cd Arif2/
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif/Arif2
+$ touch index.js index.html styles.css
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif/Arif2
+$ code .
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif/Arif2
+$ start .
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif/Arif2
+$ rm .
+rm: cannot remove '.': Is a directory
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif/Arif2
+$ rm .
+rm: cannot remove '.': Is a directory
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif/Arif2
+$ ls
+index.html  index.js  styles.css
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif/Arif2
+$ rm index.js
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif/Arif2
+$ rm *
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif/Arif2
+$ ls
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif/Arif2
+$ touch index.js index.html styles.css
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif/Arif2
+$ ls
+index.html  index.js  styles.css
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif/Arif2
+$ code .
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif/Arif2
+$ rm *
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif/Arif2
+$ ls
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Arif/Arif2
 $
 
