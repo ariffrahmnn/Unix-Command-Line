@@ -236,3 +236,151 @@ bash: cd: c: No such file or directory
 Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/yoooo/LISA HARNIATI/InputKHS_lisa
 $ cd ~
 
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents
+$ ls
+'4A Games'/                      'Custom Office Templates'/   IRAISE2025.SQL  'My Videos'@            'Rockstar Games'/
+'Arif Command line test'/         desktop.ini                'my games'/      'Native Instruments'/   'Tomb Raider'/
+"Assassin's Creed III"/          'ERD Arif,Anggun, Lindo'/   'My Music'@      'NFS Carbon'/           'WB Games'/
+"Assassin's Creed Revelations"/   Image-Line/                'My Pictures'@   'Oracle Database Doc'/
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents
+$ cd Arif\ Command\ line\ test/
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ touch Text.txt
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ ls
+Text.txt
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ start Text.txt
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ code Text.txt
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ touch Text2.txt
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ ls
+Text.txt  Text2.txt
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ Text
+TextInputFramework.dll        TextInputMethodFormatter.dll  TextShaping.dll
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ start Text2.txt
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ ls
+Text.txt  Text2.txt
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ code Text2.txt
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ rmv Text2.txt
+bash: rmv: command not found
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ rm Text2.txt
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ ls
+Text.txt
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ touch text3.txt
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ ls
+Text.txt  text3.txt
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ text3.txt
+bash: text3.txt: command not found
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ text3.txt
+bash: text3.txt: command not found
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ start text3.txt
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ code text3.txt
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ rm Text.txt
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ ls
+text3.txt
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ touch text1.txt
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ touch txt2.txt
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ ls
+text1.txt  text3.txt  txt2.txt
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ rm *
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ ls
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ ls
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ touch text.txt
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ ls
+text.txt
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ start text.txt 
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ code text.txt 
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ ls
+text.txt
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ rm *
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ ls
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ ~
+bash: /c/Users/Asus: Is a directory
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents/Arif Command line test
+$ cd ~
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~
+$ cd Documents/
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents
+$ ls
+'4A Games'/                      'Custom Office Templates'/   IRAISE2025.SQL  'My Videos'@            'Rockstar Games'/
+'Arif Command line test'/         desktop.ini                'my games'/      'Native Instruments'/   'Tomb Raider'/
+"Assassin's Creed III"/          'ERD Arif,Anggun, Lindo'/   'My Music'@      'NFS Carbon'/           'WB Games'/
+"Assassin's Creed Revelations"/   Image-Line/                'My Pictures'@   'Oracle Database Doc'/
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents
+$ code IRAISE2025.SQL 
+
+Asus@DESKTOP-7LR74Q4 MINGW64 ~/Documents
+$
+
