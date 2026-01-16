@@ -1,3 +1,15 @@
 hiii ive made these file only using command line, im so proud of myself that i can understand how command line working
 started from basic unix command line then i can setting up new folder than create my html, css, js only using command line or terminal inside visual studio code
 again again, im so excited to jump in into backend development hufftt
+
+# Unix Command Line Practice
+
+This repository was created entirely using the command line.
+
+What I practiced:
+- Navigating directories with Bash
+- Creating files and folders via CLI
+- Opening projects with VS Code from terminal
+- Git workflow (init, commit, push)
+
+LETSS GOO!!!!!!!!!!
