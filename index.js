@@ -1,0 +1,1 @@
+alert("this website is made by using command line from scratch, the developer trying to learn how to use command line")
